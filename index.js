@@ -36,8 +36,6 @@ function showTodo(filter) {
                                     <span class="start">${date.toISOString()}</span>
                                     <span class="timezone">Asia/Ho_Chi_Minh</span>
                                     <span class="title">${todo.name}</span>
-                                    <span class="organizer">MQK</span>
-                                    <span class="all_day_event">true</span>
                                     <span class="alarm_reminder">5</span>
                                     <span class="method">REQUEST</span>
                                     </li>
